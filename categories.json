@@ -1,0 +1,22 @@
+[
+    {
+      "name": "All tasks",
+      "icon": "home",
+      "badge": "6"
+    },
+    {
+        "name": "School",
+        "icon": "school",
+        "badge": "3"
+      },
+      {
+        "name": "exercise",
+        "icon": "Public",
+        "badge": "3"
+      },
+      {
+      "name": "Personal ",
+      "icon": "person",
+      "badge": "9+"
+    }
+  ]
